@@ -19,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		2F352E2B2DD4B9CC000774E2 /* c++ language */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "c++ language"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F352E2B2DD4B9CC000774E2 /* cpp language */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "cpp language"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -52,7 +52,7 @@
 		2F352E2C2DD4B9CC000774E2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2F352E2B2DD4B9CC000774E2 /* c++ language */,
+				2F352E2B2DD4B9CC000774E2 /* cpp language */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,9 +60,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2F352E2A2DD4B9CB000774E2 /* c++ language */ = {
+		2F352E2A2DD4B9CB000774E2 /* cpp language */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2F352E322DD4B9CC000774E2 /* Build configuration list for PBXNativeTarget "c++ language" */;
+			buildConfigurationList = 2F352E322DD4B9CC000774E2 /* Build configuration list for PBXNativeTarget "cpp language" */;
 			buildPhases = (
 				2F352E272DD4B9CB000774E2 /* Sources */,
 				2F352E282DD4B9CB000774E2 /* Frameworks */,
@@ -75,11 +75,11 @@
 			fileSystemSynchronizedGroups = (
 				2F352E2D2DD4B9CC000774E2 /* c++ language */,
 			);
-			name = "c++ language";
+			name = "cpp language";
 			packageProductDependencies = (
 			);
 			productName = "c++ language";
-			productReference = 2F352E2B2DD4B9CC000774E2 /* c++ language */;
+			productReference = 2F352E2B2DD4B9CC000774E2 /* cpp language */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2F352E262DD4B9CB000774E2 /* Build configuration list for PBXProject "c++ language" */;
+			buildConfigurationList = 2F352E262DD4B9CB000774E2 /* Build configuration list for PBXProject "cpp language" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2F352E2A2DD4B9CB000774E2 /* c++ language */,
+				2F352E2A2DD4B9CB000774E2 /* cpp language */,
 			);
 		};
 /* End PBXProject section */
@@ -260,7 +260,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2F352E262DD4B9CB000774E2 /* Build configuration list for PBXProject "c++ language" */ = {
+		2F352E262DD4B9CB000774E2 /* Build configuration list for PBXProject "cpp language" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2F352E302DD4B9CC000774E2 /* Debug */,
@@ -269,7 +269,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2F352E322DD4B9CC000774E2 /* Build configuration list for PBXNativeTarget "c++ language" */ = {
+		2F352E322DD4B9CC000774E2 /* Build configuration list for PBXNativeTarget "cpp language" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2F352E332DD4B9CC000774E2 /* Debug */,
